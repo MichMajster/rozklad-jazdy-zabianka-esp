@@ -32,10 +32,16 @@ jobs:
     - name: Uruchomienie skryptu scrapującego
       run: python skrypt.py
 
-    # 5. Automatyczny commit i push zaktualizowanego pliku rozklad.json z powrotem do repozytorium
+# 5. Automatyczny commit i push zaktualizowanego pliku rozklad.json z powrotem do repozytorium
     - name: Zapisanie zmian w repozytorium
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        
+        # Upewniamy się, że plik istnieje lub tworzymy pusty, jeśli skrypt go nie wygenerował z powodu błędu 403
+        touch rozklad.json 
+        
         git add rozklad.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Automatyczna aktualizacja rozkładu jazdy" && git push)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Automatyczna aktualizacja rozkładu jazdy" && git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main)
