@@ -4,7 +4,7 @@ on:
   schedule:
     # Uruchamiaj skrypt codziennie o godzinie 03:00 i 15:00 czasu UTC
     # Możesz dostosować godziny za pomocą zapisu cron
-    - cron: '0 3,15 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch: # Pozwala też na ręczne uruchomienie przyciskiem na GitHubie
 
 jobs:
