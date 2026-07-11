@@ -1,43 +1,43 @@
 {
   "departures": [
     {
-      "time": "15:15",
+      "time": "16:55",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "15:19",
-      "destination": "LĘBORK"
-    },
-    {
-      "time": "15:25",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "15:29",
-      "destination": "GDYNIA CISOWA"
-    },
-    {
-      "time": "15:35",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "15:39",
+      "time": "16:59",
       "destination": "WEJHEROWO"
     },
     {
-      "time": "15:45",
+      "time": "17:05",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "15:49",
+      "time": "17:09",
       "destination": "GDYNIA CHYLONIA"
     },
     {
-      "time": "15:55",
+      "time": "17:15",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "15:59",
+      "time": "17:19",
+      "destination": "WEJHEROWO"
+    },
+    {
+      "time": "17:25",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "17:29",
+      "destination": "GDYNIA CHYLONIA"
+    },
+    {
+      "time": "17:35",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "17:39",
       "destination": "WEJHEROWO"
     }
   ]
