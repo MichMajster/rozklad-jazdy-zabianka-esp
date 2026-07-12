@@ -1,14 +1,6 @@
 {
   "departures": [
     {
-      "time": "01:19",
-      "destination": "WEJHEROWO"
-    },
-    {
-      "time": "01:25",
-      "destination": "GDAŃSK GŁÓWNY"
-    },
-    {
       "time": "02:19",
       "destination": "WEJHEROWO"
     },
@@ -39,6 +31,14 @@
     {
       "time": "04:49",
       "destination": "WEJHEROWO"
+    },
+    {
+      "time": "05:00",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "05:15",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     }
   ]
 }
