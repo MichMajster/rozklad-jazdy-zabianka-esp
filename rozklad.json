@@ -1,22 +1,6 @@
 {
   "departures": [
     {
-      "time": "22:49",
-      "destination": "WEJHEROWO"
-    },
-    {
-      "time": "22:50",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "23:19",
-      "destination": "GDYNIA CISOWA"
-    },
-    {
-      "time": "23:28",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
       "time": "23:49",
       "destination": "WEJHEROWO"
     },
@@ -38,6 +22,22 @@
     },
     {
       "time": "01:25",
+      "destination": "GDAŃSK GŁÓWNY"
+    },
+    {
+      "time": "02:19",
+      "destination": "WEJHEROWO"
+    },
+    {
+      "time": "02:25",
+      "destination": "GDAŃSK GŁÓWNY"
+    },
+    {
+      "time": "03:19",
+      "destination": "WEJHEROWO"
+    },
+    {
+      "time": "03:25",
       "destination": "GDAŃSK GŁÓWNY"
     }
   ]
