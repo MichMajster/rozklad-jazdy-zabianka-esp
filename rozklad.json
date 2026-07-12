@@ -1,44 +1,44 @@
 {
   "departures": [
     {
-      "time": "08:15",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "08:19",
+      "time": "10:19",
       "destination": "WEJHEROWO"
     },
     {
-      "time": "08:45",
+      "time": "10:25",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "08:49",
+      "time": "10:39",
       "destination": "WEJHEROWO"
     },
     {
-      "time": "09:05",
+      "time": "10:45",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "09:19",
+      "time": "10:59",
       "destination": "WEJHEROWO"
     },
     {
-      "time": "09:25",
+      "time": "11:05",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "09:39",
+      "time": "11:19",
       "destination": "WEJHEROWO"
     },
     {
-      "time": "09:45",
+      "time": "11:25",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "09:59",
+      "time": "11:39",
       "destination": "WEJHEROWO"
+    },
+    {
+      "time": "11:50",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     }
   ]
 }
