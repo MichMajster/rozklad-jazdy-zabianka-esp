@@ -1,43 +1,43 @@
 {
   "departures": [
     {
-      "time": "11:39",
-      "destination": "WEJHEROWO"
-    },
-    {
-      "time": "11:50",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "11:59",
-      "destination": "WEJHEROWO"
-    },
-    {
-      "time": "12:08",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "12:19",
-      "destination": "WEJHEROWO"
-    },
-    {
-      "time": "12:25",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "12:39",
-      "destination": "WEJHEROWO"
-    },
-    {
-      "time": "12:45",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
       "time": "12:59",
       "destination": "WEJHEROWO"
     },
     {
       "time": "13:05",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "13:19",
+      "destination": "WEJHEROWO"
+    },
+    {
+      "time": "13:25",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "13:39",
+      "destination": "WEJHEROWO"
+    },
+    {
+      "time": "13:45",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "13:59",
+      "destination": "WEJHEROWO"
+    },
+    {
+      "time": "14:05",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "14:19",
+      "destination": "WEJHEROWO"
+    },
+    {
+      "time": "14:27",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     }
   ]
