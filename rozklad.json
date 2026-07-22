@@ -1,44 +1,44 @@
 {
   "departures": [
     {
-      "time": "09:15",
+      "time": "12:08",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "09:19",
+      "time": "12:09",
+      "destination": "GDYNIA CISOWA"
+    },
+    {
+      "time": "12:15",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "12:19",
+      "destination": "GDYNIA CISOWA"
+    },
+    {
+      "time": "12:25",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "12:29",
+      "destination": "LĘBORK"
+    },
+    {
+      "time": "12:35",
+      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+    },
+    {
+      "time": "12:39",
       "destination": "WEJHEROWO"
     },
     {
-      "time": "09:25",
+      "time": "12:45",
       "destination": "GDAŃSK ŚRÓDMIEŚCIE"
     },
     {
-      "time": "09:29",
-      "destination": "GDYNIA CHYLONIA"
-    },
-    {
-      "time": "09:35",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "09:39",
-      "destination": "WEJHEROWO"
-    },
-    {
-      "time": "09:45",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "09:49",
-      "destination": "GDYNIA CHYLONIA"
-    },
-    {
-      "time": "09:55",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "09:59",
-      "destination": "WEJHEROWO"
+      "time": "12:49",
+      "destination": "GDYNIA CISOWA"
     }
   ]
 }
