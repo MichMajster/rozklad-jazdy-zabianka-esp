@@ -1,44 +1,3238 @@
 {
   "departures": [
     {
-      "time": "11:29",
-      "destination": "GDYNIA CHYLONIA"
+      "time": "00:26",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59698",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "01:25",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59700",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "02:25",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59702",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "03:25",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59704",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "23:58",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59486",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "04:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59400",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "04:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59402",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "05:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59706",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "05:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59404",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "05:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59708",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "05:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59800",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "05:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59406",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59600",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59802",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:22",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59408",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59710",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59602",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59804",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59410",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59712",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:07",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59714",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59620",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:23",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59716",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:32",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59806",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:38",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59604",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59718",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59606",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59720",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:07",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59722",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59724",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:23",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59808",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59412",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59608",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59726",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:56",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59728",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59414",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59610",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59730",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59416",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59810",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59418",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59420",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59732",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59734",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59422",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59424",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59736",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59738",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59426",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59740",
+      "platform": "Peron I",
+      "date": "23-07-2026"
     },
     {
       "time": "11:35",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "11:39",
-      "destination": "WEJHEROWO"
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59428",
+      "platform": "Peron I",
+      "date": "23-07-2026"
     },
     {
       "time": "11:45",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "11:49",
-      "destination": "GDYNIA CHYLONIA"
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59430",
+      "platform": "Peron I",
+      "date": "23-07-2026"
     },
     {
       "time": "11:55",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "11:59",
-      "destination": "WEJHEROWO"
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59742",
+      "platform": "Peron I",
+      "date": "23-07-2026"
     },
     {
       "time": "12:08",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
-    },
-    {
-      "time": "12:09",
-      "destination": "GDYNIA CISOWA"
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59744",
+      "platform": "Peron I",
+      "date": "23-07-2026"
     },
     {
       "time": "12:15",
-      "destination": "GDAŃSK ŚRÓDMIEŚCIE"
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59432",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59746",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59434",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59748",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59436",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59750",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59438",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59752",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59812",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59440",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59442",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59754",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59444",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:27",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59756",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59446",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59758",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59448",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59760",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:07",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59450",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59762",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:22",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59452",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:31",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59764",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:38",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59454",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59612",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59814",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59766",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:08",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59456",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59768",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:22",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59458",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59770",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59460",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59772",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59462",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59774",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:07",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59464",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59776",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59778",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59466",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59780",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59468",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59782",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59470",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59784",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59472",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59786",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59474",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59788",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59476",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59790",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59792",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "20:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59478",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "20:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59794",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "20:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59480",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "20:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59796",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "21:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59482",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "21:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59798",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "21:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59484",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "21:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59690",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "22:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59692",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "22:50",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59694",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "23:28",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59696",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:56",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95403",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:12",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95411",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:27",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95413",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:41",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95417",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:29",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95425",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:49",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95427",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:29",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95437",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:49",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95439",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:09",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95447",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:56",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95455",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:26",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95463",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:09",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95473",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "00:20",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95401",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:26",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95405",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:34",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95407",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:56",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95409",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:34",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95415",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:56",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95419",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:04",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95421",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:12",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95423",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95429",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95431",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95433",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95435",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95441",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:19",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95443",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95445",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95449",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95451",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95453",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:11",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95457",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:27",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95459",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:41",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95461",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:41",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95465",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:59",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95467",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95469",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95471",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95475",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95477",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "20:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95479",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "20:34",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95481",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "21:04",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95483",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "21:34",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95485",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "22:04",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95487",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "23:19",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95489",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:19",
+      "destination": "Lębork",
+      "train": "SKM-T95801",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:19",
+      "destination": "Lębork",
+      "train": "SKM-T95803",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:29",
+      "destination": "Lębork",
+      "train": "SKM-T95805",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:19",
+      "destination": "Lębork",
+      "train": "SKM-T95807",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:19",
+      "destination": "Lębork",
+      "train": "SKM-T95809",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:34",
+      "destination": "Lębork",
+      "train": "SKM-T95811",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:59",
+      "destination": "Lębork",
+      "train": "SKM-T95813",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "20:19",
+      "destination": "Lębork",
+      "train": "SKM-T95815",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:04",
+      "destination": "Reda",
+      "train": "SKM-T95603",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:39",
+      "destination": "Reda",
+      "train": "SKM-T95605",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "05:34",
+      "destination": "Rumia",
+      "train": "SKM-T95601",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:11",
+      "destination": "Rumia",
+      "train": "SKM-T95607",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:09",
+      "destination": "Rumia",
+      "train": "SKM-T95609",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "01:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95701",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "02:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95703",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "03:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95705",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "04:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95707",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "04:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95709",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "05:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95711",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "05:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95713",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:29",
+      "destination": "Wejherowo",
+      "train": "SKM-T95715",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "06:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95717",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:04",
+      "destination": "Wejherowo",
+      "train": "SKM-T95719",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95721",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:41",
+      "destination": "Wejherowo",
+      "train": "SKM-T95723",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "07:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95725",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:04",
+      "destination": "Wejherowo",
+      "train": "SKM-T95727",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:20",
+      "destination": "Wejherowo",
+      "train": "SKM-T95729",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "08:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95731",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95733",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95735",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95737",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95739",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95741",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95743",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95745",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "11:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95747",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95749",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "12:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95751",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95753",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95755",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "13:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95757",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95759",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95633",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95761",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:09",
+      "destination": "Wejherowo",
+      "train": "SKM-T95763",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:26",
+      "destination": "Wejherowo",
+      "train": "SKM-T95765",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:34",
+      "destination": "Wejherowo",
+      "train": "SKM-T95767",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:41",
+      "destination": "Wejherowo",
+      "train": "SKM-T95769",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "15:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95771",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:04",
+      "destination": "Wejherowo",
+      "train": "SKM-T95773",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95775",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95777",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "16:56",
+      "destination": "Wejherowo",
+      "train": "SKM-T95779",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:04",
+      "destination": "Wejherowo",
+      "train": "SKM-T95781",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:11",
+      "destination": "Wejherowo",
+      "train": "SKM-T95783",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95785",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:34",
+      "destination": "Wejherowo",
+      "train": "SKM-T95787",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "17:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95789",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:07",
+      "destination": "Wejherowo",
+      "train": "SKM-T95791",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95793",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95795",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95797",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95799",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "19:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95687",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "20:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95689",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "21:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95691",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "21:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95693",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "22:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95695",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "22:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95697",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "23:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95699",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "00:26",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59698",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "01:25",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59700",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "02:25",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59702",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "03:25",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59704",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "23:58",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59486",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "04:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59400",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "04:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59402",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "05:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59706",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "05:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59404",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "05:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59708",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "05:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59800",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "05:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59406",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59600",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59802",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:22",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59408",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59710",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59602",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59804",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59410",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59712",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:07",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59714",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59620",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:23",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59716",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:32",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59806",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:38",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59604",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59718",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59606",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59720",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:07",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59722",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59724",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:23",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59808",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59412",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59608",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59726",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:56",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59728",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59414",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59610",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59730",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59416",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59810",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59418",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59420",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59732",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59734",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59422",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59424",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59736",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59738",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59426",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59740",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59428",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59430",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59742",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:08",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59744",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59432",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59746",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59434",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59748",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59436",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59750",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59438",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59752",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59812",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59440",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59442",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59754",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59444",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:27",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59756",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59446",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59758",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59448",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59760",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:07",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59450",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59762",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:22",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59452",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:31",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59764",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:38",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59454",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59612",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59814",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59766",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:08",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59456",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59768",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:22",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59458",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59770",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59460",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59772",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59462",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59774",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:07",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59464",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59776",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59778",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59466",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59780",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59468",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59782",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59470",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59784",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59472",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59786",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59474",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59788",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59476",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59790",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59792",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "20:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59478",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "20:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59794",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "20:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59480",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "20:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59796",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "21:00",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59482",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "21:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59798",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "21:30",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59484",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "21:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59690",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "22:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59692",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "22:50",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59694",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "23:28",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59696",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:56",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95403",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:12",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95411",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:27",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95413",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:41",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95417",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:29",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95425",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:49",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95427",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:29",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95437",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:49",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95439",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:09",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95447",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:56",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95455",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:26",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95463",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:09",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95473",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "00:20",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95401",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:26",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95405",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:34",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95407",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:56",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95409",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:34",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95415",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:56",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95419",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:04",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95421",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:12",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95423",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95429",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95431",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95433",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95435",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95441",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:19",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95443",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95445",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95449",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95451",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95453",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:11",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95457",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:27",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95459",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:41",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95461",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:41",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95465",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:59",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95467",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95469",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95471",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95475",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95477",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "20:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95479",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "20:34",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95481",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "21:04",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95483",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "21:34",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95485",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "22:04",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95487",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "23:19",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95489",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:19",
+      "destination": "Lębork",
+      "train": "SKM-T95801",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:19",
+      "destination": "Lębork",
+      "train": "SKM-T95803",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:29",
+      "destination": "Lębork",
+      "train": "SKM-T95805",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:19",
+      "destination": "Lębork",
+      "train": "SKM-T95807",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:19",
+      "destination": "Lębork",
+      "train": "SKM-T95809",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:34",
+      "destination": "Lębork",
+      "train": "SKM-T95811",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:59",
+      "destination": "Lębork",
+      "train": "SKM-T95813",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "20:19",
+      "destination": "Lębork",
+      "train": "SKM-T95815",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:04",
+      "destination": "Reda",
+      "train": "SKM-T95603",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:39",
+      "destination": "Reda",
+      "train": "SKM-T95605",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "05:34",
+      "destination": "Rumia",
+      "train": "SKM-T95601",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:11",
+      "destination": "Rumia",
+      "train": "SKM-T95607",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:09",
+      "destination": "Rumia",
+      "train": "SKM-T95609",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "01:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95701",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "02:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95703",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "03:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95705",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "04:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95707",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "04:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95709",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "05:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95711",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "05:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95713",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:29",
+      "destination": "Wejherowo",
+      "train": "SKM-T95715",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "06:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95717",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:04",
+      "destination": "Wejherowo",
+      "train": "SKM-T95719",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95721",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:41",
+      "destination": "Wejherowo",
+      "train": "SKM-T95723",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "07:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95725",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:04",
+      "destination": "Wejherowo",
+      "train": "SKM-T95727",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:20",
+      "destination": "Wejherowo",
+      "train": "SKM-T95729",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "08:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95731",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95733",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95735",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "09:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95737",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95739",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "10:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95741",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95743",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95745",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "11:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95747",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95749",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "12:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95751",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95753",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95755",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "13:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95757",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95759",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95633",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "14:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95761",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:09",
+      "destination": "Wejherowo",
+      "train": "SKM-T95763",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:26",
+      "destination": "Wejherowo",
+      "train": "SKM-T95765",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:34",
+      "destination": "Wejherowo",
+      "train": "SKM-T95767",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:41",
+      "destination": "Wejherowo",
+      "train": "SKM-T95769",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "15:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95771",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:04",
+      "destination": "Wejherowo",
+      "train": "SKM-T95773",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95775",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95777",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "16:56",
+      "destination": "Wejherowo",
+      "train": "SKM-T95779",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:04",
+      "destination": "Wejherowo",
+      "train": "SKM-T95781",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:11",
+      "destination": "Wejherowo",
+      "train": "SKM-T95783",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95785",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:34",
+      "destination": "Wejherowo",
+      "train": "SKM-T95787",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "17:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95789",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:07",
+      "destination": "Wejherowo",
+      "train": "SKM-T95791",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95793",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "18:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95795",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95797",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95799",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "19:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95687",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "20:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95689",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "21:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95691",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "21:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95693",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "22:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95695",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "22:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95697",
+      "platform": "Peron I",
+      "date": "24-07-2026"
+    },
+    {
+      "time": "23:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95699",
+      "platform": "Peron I",
+      "date": "24-07-2026"
     }
   ]
 }
