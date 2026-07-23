@@ -1,17 +1,13 @@
 {
   "departures": [
     {
-      "time": "01:25",
-      "destination": "Gdańsk Główny",
-      "train": "SKM-T59700",
-      "platform": "Peron I",
+      "time": "01:19",
+      "destination": "Wejherowo",
       "date": "23-07-2026"
     },
     {
-      "time": "01:19",
-      "destination": "Wejherowo",
-      "train": "SKM-T95701",
-      "platform": "Peron I",
+      "time": "01:25",
+      "destination": "Gdańsk Główny",
       "date": "23-07-2026"
     }
   ]

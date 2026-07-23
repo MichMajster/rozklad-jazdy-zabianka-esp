@@ -1,31 +1,23 @@
 {
   "departures": [
     {
-      "time": "23:58",
-      "destination": "Gdańsk Główny",
-      "train": "SKM-T59486",
-      "platform": "Peron I",
+      "time": "23:19",
+      "destination": "Gdynia Cisowa",
       "date": "23-07-2026"
     },
     {
       "time": "23:28",
       "destination": "Gdańsk Śródmieście",
-      "train": "SKM-T59696",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "23:19",
-      "destination": "Gdynia Cisowa",
-      "train": "SKM-T95489",
-      "platform": "Peron I",
       "date": "23-07-2026"
     },
     {
       "time": "23:49",
       "destination": "Wejherowo",
-      "train": "SKM-T95699",
-      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "23:58",
+      "destination": "Gdańsk Główny",
       "date": "23-07-2026"
     }
   ]

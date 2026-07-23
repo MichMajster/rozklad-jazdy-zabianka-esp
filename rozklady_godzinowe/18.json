@@ -3,85 +3,61 @@
     {
       "time": "18:05",
       "destination": "Gdańsk Śródmieście",
-      "train": "SKM-T59782",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "18:15",
-      "destination": "Gdańsk Śródmieście",
-      "train": "SKM-T59470",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "18:25",
-      "destination": "Gdańsk Śródmieście",
-      "train": "SKM-T59784",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "18:35",
-      "destination": "Gdańsk Śródmieście",
-      "train": "SKM-T59472",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "18:45",
-      "destination": "Gdańsk Śródmieście",
-      "train": "SKM-T59786",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "18:55",
-      "destination": "Gdańsk Śródmieście",
-      "train": "SKM-T59474",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "18:29",
-      "destination": "Gdynia Cisowa",
-      "train": "SKM-T95469",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "18:49",
-      "destination": "Gdynia Cisowa",
-      "train": "SKM-T95471",
-      "platform": "Peron I",
-      "date": "23-07-2026"
-    },
-    {
-      "time": "18:59",
-      "destination": "Lębork",
-      "train": "SKM-T95813",
-      "platform": "Peron I",
       "date": "23-07-2026"
     },
     {
       "time": "18:07",
       "destination": "Wejherowo",
-      "train": "SKM-T95791",
-      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:15",
+      "destination": "Gdańsk Śródmieście",
       "date": "23-07-2026"
     },
     {
       "time": "18:19",
       "destination": "Wejherowo",
-      "train": "SKM-T95793",
-      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:25",
+      "destination": "Gdańsk Śródmieście",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:29",
+      "destination": "Gdynia Cisowa",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:35",
+      "destination": "Gdańsk Śródmieście",
       "date": "23-07-2026"
     },
     {
       "time": "18:39",
       "destination": "Wejherowo",
-      "train": "SKM-T95795",
-      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:45",
+      "destination": "Gdańsk Śródmieście",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:49",
+      "destination": "Gdynia Cisowa",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:55",
+      "destination": "Gdańsk Śródmieście",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "18:59",
+      "destination": "Lębork",
       "date": "23-07-2026"
     }
   ]

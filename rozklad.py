@@ -12,7 +12,6 @@ def pobierz_odjazdy():
     data_dzis_str = dzisiaj_dt.strftime("%Y-%m-%d")
     data_jutro_str = jutro_dt.strftime("%Y-%m-%d")
 
-    # Format daty w linkach Koleo: DD-MM-YYYY
     data_dzis_koleo = dzisiaj_dt.strftime("%d-%m-%Y")
     data_jutro_koleo = jutro_dt.strftime("%d-%m-%Y")
 
@@ -47,8 +46,6 @@ def pobierz_odjazdy():
     )
     wzorzec_pociagu = re.compile(r"^(?P<pociag>.*?)(?P<peron>Peron.*)?$")
 
-    # Słownik do grupowania odjazdów według nazwy pliku
-    # Klucze: "00", "01", ..., "23" dla dzisiaj oraz "00_jut", "01_jut" dla jutra
     pliki_odjazdow = {f"{h:02d}": [] for h in range(24)}
     pliki_odjazdow["00_jut"] = []
     pliki_odjazdow["01_jut"] = []
@@ -85,13 +82,11 @@ def pobierz_odjazdy():
                 godzina = dopasowanie.group("godzina")
                 data = dopasowanie.group("data")
 
-                # Upewniamy się, że odjazd należy do aktualnie przetwarzanego dnia
                 if data != oczekiwana_data:
                     continue
 
                 hh = godzina.split(":")[0]
 
-                # Filtrowanie dla dnia następnego (tylko godziny 00 i 01)
                 if typ_dnia == "jutro":
                     if hh not in ("00", "01"):
                         continue
@@ -109,7 +104,6 @@ def pobierz_odjazdy():
                 numer_pociagu = dopasowanie_pociagu.group("pociag").strip() if dopasowanie_pociagu else reszta
                 peron = dopasowanie_pociagu.group("peron").strip() if dopasowanie_pociagu and dopasowanie_pociagu.group("peron") else ""
 
-                # Unikalny klucz zapobiegający dublowaniu kursów
                 klucz = (data, godzina, numer_pociagu, aktualna_stacja_docelowa)
                 if klucz in unikalne_klucze:
                     continue
@@ -118,17 +112,20 @@ def pobierz_odjazdy():
                 pliki_odjazdow[klucz_pliku].append({
                     "time": godzina,
                     "destination": aktualna_stacja_docelowa,
-                    "train": numer_pociagu,
-                    "platform": peron,
+                    #"train": numer_pociagu,
+                    #"platform": peron,
                     "date": data
                 })
 
         except Exception as e:
             print(f"Wystąpił błąd przy pobieraniu z {url}: {e}")
 
-    # Zapis poszczególnych plików JSON
+    # Zapis z wcześniejszym SORTOWANIEM CHRONOLOGICZNYM
     zapisane_pliki = 0
     for nazwa_pliku, odjazdy_godzina in pliki_odjazdow.items():
+        # SORTOWANIE PO CZASIE ODJAZDU (HH:MM)
+        odjazdy_godzina.sort(key=lambda x: x["time"])
+
         sciezka = os.path.join(katalog_wyjsciowy, f"{nazwa_pliku}.json")
         try:
             with open(sciezka, "w", encoding="utf-8") as f:
@@ -137,7 +134,7 @@ def pobierz_odjazdy():
         except Exception as e:
             print(f"Błąd zapisu pliku {nazwa_pliku}.json: {e}")
 
-    print(f"\n[SUKCES] Zapisano {zapisane_pliki} plików JSON w folderze: {katalog_wyjsciowy}")
+    print(f"\n[SUKCES] Zapisano i posortowano {zapisane_pliki} plików JSON w folderze: {katalog_wyjsciowy}")
 
 if __name__ == "__main__":
     pobierz_odjazdy()
