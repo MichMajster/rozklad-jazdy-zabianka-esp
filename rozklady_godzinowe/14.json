@@ -1,0 +1,88 @@
+{
+  "departures": [
+    {
+      "time": "14:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59754",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59444",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:27",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59756",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:37",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59446",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59758",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:52",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59448",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95453",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:19",
+      "destination": "Lębork",
+      "train": "SKM-T95807",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:09",
+      "destination": "Rumia",
+      "train": "SKM-T95609",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95759",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95633",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "14:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95761",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    }
+  ]
+}

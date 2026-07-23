@@ -1,0 +1,32 @@
+{
+  "departures": [
+    {
+      "time": "04:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59400",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "04:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59402",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "04:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95707",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "04:49",
+      "destination": "Wejherowo",
+      "train": "SKM-T95709",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    }
+  ]
+}

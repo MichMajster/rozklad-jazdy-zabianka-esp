@@ -1,0 +1,88 @@
+{
+  "departures": [
+    {
+      "time": "10:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59420",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59732",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59734",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59422",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59424",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59736",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:09",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95429",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:29",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95431",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:49",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95433",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:19",
+      "destination": "Lębork",
+      "train": "SKM-T95803",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95739",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "10:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95741",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "departures": [
+    {
+      "time": "00:26",
+      "destination": "Gdańsk Główny",
+      "train": "SKM-T59698",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "00:20",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95401",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    }
+  ]
+}

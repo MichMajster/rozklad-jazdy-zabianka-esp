@@ -1,0 +1,95 @@
+{
+  "departures": [
+    {
+      "time": "09:05",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59414",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:15",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59610",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:25",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59730",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:35",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59416",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:45",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59810",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:55",
+      "destination": "Gdańsk Śródmieście",
+      "train": "SKM-T59418",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:29",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95425",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:49",
+      "destination": "Gdynia Chylonia",
+      "train": "SKM-T95427",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:04",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95421",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:12",
+      "destination": "Gdynia Cisowa",
+      "train": "SKM-T95423",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:19",
+      "destination": "Wejherowo",
+      "train": "SKM-T95733",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:39",
+      "destination": "Wejherowo",
+      "train": "SKM-T95735",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    },
+    {
+      "time": "09:59",
+      "destination": "Wejherowo",
+      "train": "SKM-T95737",
+      "platform": "Peron I",
+      "date": "23-07-2026"
+    }
+  ]
+}

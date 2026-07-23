@@ -6,18 +6,20 @@ import json
 from datetime import datetime, timedelta
 
 def pobierz_odjazdy():
-    # Pobieramy dzisiejszą i jutrzejszą datę w formacie YYYY-MM-DD dla URL
     dzisiaj_dt = datetime.now()
     jutro_dt = dzisiaj_dt + timedelta(days=1)
     
     data_dzis_str = dzisiaj_dt.strftime("%Y-%m-%d")
     data_jutro_str = jutro_dt.strftime("%Y-%m-%d")
 
-    # Lista URL-i do odpytania (dzisiaj oraz jutro)
+    # Format daty w linkach Koleo: DD-MM-YYYY
+    data_dzis_koleo = dzisiaj_dt.strftime("%d-%m-%Y")
+    data_jutro_koleo = jutro_dt.strftime("%d-%m-%Y")
+
     baza_url = "https://koleo.pl/dworzec-pkp/gdansk-zabianka-awfis/odjazdy"
     urle = [
-        baza_url,
-        f"{baza_url}/{data_jutro_str}"
+        (baza_url, data_dzis_koleo, "dzis"),
+        (f"{baza_url}/{data_jutro_str}", data_jutro_koleo, "jutro")
     ]
 
     headers = {
@@ -37,17 +39,23 @@ def pobierz_odjazdy():
     }
 
     katalog_programu = os.path.dirname(os.path.abspath(__file__))
-    sciezka_zapisu = os.path.join(katalog_programu, "rozklad.json")
+    katalog_wyjsciowy = os.path.join(katalog_programu, "rozklady_godzinowe")
+    os.makedirs(katalog_wyjsciowy, exist_ok=True)
 
     wzorzec_linku = re.compile(
         r"/rozklad-pkp/[^/]+/(?P<slug>[^/]+)/(?P<data>\d{2}-\d{2}-\d{4})_(?P<godzina>\d{2}:\d{2})"
     )
     wzorzec_pociagu = re.compile(r"^(?P<pociag>.*?)(?P<peron>Peron.*)?$")
 
-    odjazdy = []
+    # Słownik do grupowania odjazdów według nazwy pliku
+    # Klucze: "00", "01", ..., "23" dla dzisiaj oraz "00_jut", "01_jut" dla jutra
+    pliki_odjazdow = {f"{h:02d}": [] for h in range(24)}
+    pliki_odjazdow["00_jut"] = []
+    pliki_odjazdow["01_jut"] = []
+
     unikalne_klucze = set()
 
-    for url in urle:
+    for url, oczekiwana_data, typ_dnia in urle:
         try:
             print(f"Pobieranie danych z: {url}...")
             response = requests.get(url, headers=headers, timeout=15)
@@ -77,6 +85,20 @@ def pobierz_odjazdy():
                 godzina = dopasowanie.group("godzina")
                 data = dopasowanie.group("data")
 
+                # Upewniamy się, że odjazd należy do aktualnie przetwarzanego dnia
+                if data != oczekiwana_data:
+                    continue
+
+                hh = godzina.split(":")[0]
+
+                # Filtrowanie dla dnia następnego (tylko godziny 00 i 01)
+                if typ_dnia == "jutro":
+                    if hh not in ("00", "01"):
+                        continue
+                    klucz_pliku = f"{hh}_jut"
+                else:
+                    klucz_pliku = hh
+
                 tekst_linku = element.get_text(strip=True)
                 if tekst_linku.startswith(godzina):
                     reszta = tekst_linku[len(godzina):]
@@ -87,13 +109,13 @@ def pobierz_odjazdy():
                 numer_pociagu = dopasowanie_pociagu.group("pociag").strip() if dopasowanie_pociagu else reszta
                 peron = dopasowanie_pociagu.group("peron").strip() if dopasowanie_pociagu and dopasowanie_pociagu.group("peron") else ""
 
-                # Unikalny klucz zapobiegający dublowaniu kursów (np. tuż po północy)
+                # Unikalny klucz zapobiegający dublowaniu kursów
                 klucz = (data, godzina, numer_pociagu, aktualna_stacja_docelowa)
                 if klucz in unikalne_klucze:
                     continue
                 unikalne_klucze.add(klucz)
 
-                odjazdy.append({
+                pliki_odjazdow[klucz_pliku].append({
                     "time": godzina,
                     "destination": aktualna_stacja_docelowa,
                     "train": numer_pociagu,
@@ -104,21 +126,18 @@ def pobierz_odjazdy():
         except Exception as e:
             print(f"Wystąpił błąd przy pobieraniu z {url}: {e}")
 
-    if not odjazdy:
-        print("\n[BŁĄD] Nie udało się wyodrębnić żadnych odjazdów.")
-        return
+    # Zapis poszczególnych plików JSON
+    zapisane_pliki = 0
+    for nazwa_pliku, odjazdy_godzina in pliki_odjazdow.items():
+        sciezka = os.path.join(katalog_wyjsciowy, f"{nazwa_pliku}.json")
+        try:
+            with open(sciezka, "w", encoding="utf-8") as f:
+                json.dump({"departures": odjazdy_godzina}, f, indent=2, ensure_ascii=False)
+            zapisane_pliki += 1
+        except Exception as e:
+            print(f"Błąd zapisu pliku {nazwa_pliku}.json: {e}")
 
-    # Zapis do pliku JSON
-    try:
-        wynik = {"departures": odjazdy}
-        with open(sciezka_zapisu, "w", encoding="utf-8") as f:
-            json.dump(wynik, f, indent=2, ensure_ascii=False)
-
-        print(f"\n[SUKCES] Pobrano łącznie {len(odjazdy)} odjazdów (dzisiaj i jutro).")
-        print(f"Plik został zapisany w katalogu roboczym: {sciezka_zapisu}")
-
-    except Exception as e:
-        print(f"\nWystąpił błąd podczas zapisu pliku: {e}")
+    print(f"\n[SUKCES] Zapisano {zapisane_pliki} plików JSON w folderze: {katalog_wyjsciowy}")
 
 if __name__ == "__main__":
     pobierz_odjazdy()
