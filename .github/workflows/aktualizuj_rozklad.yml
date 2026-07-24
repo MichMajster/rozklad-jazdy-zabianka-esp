@@ -26,13 +26,15 @@ jobs:
 
     - name: Uruchomienie skryptu scrapującego
       run: python rozklad.py
-
     - name: Zapisanie zmian w repozytorium
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        touch rozklad.json
-        git add rozklad.json
+        
+        # Dodanie całego folderu z nowymi plikami JSON (nadpisuje istniejące, dodaje nowe)
+        git add rozklady_godzinowe/
+        
+        # Commit i push tylko jeśli wykryto jakiekolwiek zmiany
         git diff --quiet && git diff --staged --quiet || (git commit -m "Automatyczna aktualizacja rozkładu jazdy" && git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main)
