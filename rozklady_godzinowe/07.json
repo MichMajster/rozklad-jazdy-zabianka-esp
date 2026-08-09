@@ -1,44 +1,24 @@
 {
   "departures": [
     {
-      "time": "07:00",
-      "destination": "Gdańsk Śródmieście",
-      "date": "08-08-2026"
-    },
-    {
-      "time": "07:04",
-      "destination": "Gdynia Chylonia",
-      "date": "08-08-2026"
-    },
-    {
       "time": "07:15",
       "destination": "Gdańsk Śródmieście",
-      "date": "08-08-2026"
+      "date": "09-08-2026"
     },
     {
       "time": "07:19",
       "destination": "Wejherowo",
-      "date": "08-08-2026"
-    },
-    {
-      "time": "07:31",
-      "destination": "Gdańsk Śródmieście",
-      "date": "08-08-2026"
-    },
-    {
-      "time": "07:34",
-      "destination": "Gdynia Chylonia",
-      "date": "08-08-2026"
+      "date": "09-08-2026"
     },
     {
       "time": "07:45",
       "destination": "Gdańsk Śródmieście",
-      "date": "08-08-2026"
+      "date": "09-08-2026"
     },
     {
       "time": "07:49",
       "destination": "Wejherowo",
-      "date": "08-08-2026"
+      "date": "09-08-2026"
     }
   ]
 }
