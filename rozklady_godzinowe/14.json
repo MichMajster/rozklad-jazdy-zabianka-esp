@@ -3,32 +3,62 @@
     {
       "time": "14:05",
       "destination": "Gdańsk Śródmieście",
-      "date": "09-08-2026"
+      "date": "10-08-2026"
+    },
+    {
+      "time": "14:09",
+      "destination": "Rumia",
+      "date": "10-08-2026"
+    },
+    {
+      "time": "14:15",
+      "destination": "Gdańsk Śródmieście",
+      "date": "10-08-2026"
     },
     {
       "time": "14:19",
-      "destination": "Wejherowo",
-      "date": "09-08-2026"
+      "destination": "Lębork",
+      "date": "10-08-2026"
     },
     {
       "time": "14:27",
       "destination": "Gdańsk Śródmieście",
-      "date": "09-08-2026"
+      "date": "10-08-2026"
+    },
+    {
+      "time": "14:29",
+      "destination": "Gdynia Cisowa",
+      "date": "10-08-2026"
+    },
+    {
+      "time": "14:37",
+      "destination": "Gdańsk Śródmieście",
+      "date": "10-08-2026"
     },
     {
       "time": "14:39",
       "destination": "Wejherowo",
-      "date": "09-08-2026"
+      "date": "10-08-2026"
     },
     {
       "time": "14:45",
       "destination": "Gdańsk Śródmieście",
-      "date": "09-08-2026"
+      "date": "10-08-2026"
+    },
+    {
+      "time": "14:49",
+      "destination": "Wejherowo",
+      "date": "10-08-2026"
+    },
+    {
+      "time": "14:52",
+      "destination": "Gdańsk Śródmieście",
+      "date": "10-08-2026"
     },
     {
       "time": "14:59",
       "destination": "Wejherowo",
-      "date": "09-08-2026"
+      "date": "10-08-2026"
     }
   ]
 }
