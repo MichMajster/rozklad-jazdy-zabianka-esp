@@ -1,64 +1,34 @@
 {
   "departures": [
     {
-      "time": "16:05",
+      "time": "16:08",
       "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
-    },
-    {
-      "time": "16:09",
-      "destination": "Gdynia Cisowa",
-      "date": "29-08-2026"
-    },
-    {
-      "time": "16:15",
-      "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     },
     {
       "time": "16:19",
       "destination": "Wejherowo",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     },
     {
-      "time": "16:25",
+      "time": "16:30",
       "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     },
     {
-      "time": "16:29",
-      "destination": "Gdynia Chylonia",
-      "date": "29-08-2026"
-    },
-    {
-      "time": "16:35",
-      "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
-    },
-    {
-      "time": "16:39",
+      "time": "16:41",
       "destination": "Wejherowo",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     },
     {
       "time": "16:45",
       "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
-    },
-    {
-      "time": "16:49",
-      "destination": "Gdynia Cisowa",
-      "date": "29-08-2026"
-    },
-    {
-      "time": "16:55",
-      "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     },
     {
       "time": "16:59",
       "destination": "Wejherowo",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     }
   ]
 }

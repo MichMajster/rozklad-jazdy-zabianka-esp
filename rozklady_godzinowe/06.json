@@ -3,27 +3,22 @@
     {
       "time": "06:15",
       "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     },
     {
       "time": "06:19",
       "destination": "Lębork",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     },
     {
-      "time": "06:30",
+      "time": "06:46",
       "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
-    },
-    {
-      "time": "06:45",
-      "destination": "Gdańsk Śródmieście",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     },
     {
       "time": "06:49",
       "destination": "Wejherowo",
-      "date": "29-08-2026"
+      "date": "30-08-2026"
     }
   ]
 }
