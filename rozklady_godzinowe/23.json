@@ -3,22 +3,22 @@
     {
       "time": "23:19",
       "destination": "Gdynia Cisowa",
-      "date": "03-09-2026"
+      "date": "04-09-2026"
     },
     {
       "time": "23:30",
       "destination": "Gdańsk Śródmieście",
-      "date": "03-09-2026"
+      "date": "04-09-2026"
     },
     {
-      "time": "23:49",
+      "time": "23:54",
       "destination": "Wejherowo",
-      "date": "03-09-2026"
+      "date": "04-09-2026"
     },
     {
       "time": "23:58",
       "destination": "Gdańsk Główny",
-      "date": "03-09-2026"
+      "date": "04-09-2026"
     }
   ]
 }
