@@ -2,23 +2,23 @@
   "departures": [
     {
       "time": "14:19",
-      "destination": "Lębork",
-      "date": "05-09-2026"
+      "destination": "Wejherowo",
+      "date": "06-09-2026"
     },
     {
       "time": "14:22",
       "destination": "Gdańsk Śródmieście",
-      "date": "05-09-2026"
+      "date": "06-09-2026"
     },
     {
       "time": "14:47",
       "destination": "Wejherowo",
-      "date": "05-09-2026"
+      "date": "06-09-2026"
     },
     {
       "time": "14:48",
       "destination": "Gdańsk Śródmieście",
-      "date": "05-09-2026"
+      "date": "06-09-2026"
     }
   ]
 }
