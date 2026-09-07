@@ -1,24 +1,24 @@
 {
   "departures": [
     {
-      "time": "23:27",
+      "time": "23:19",
       "destination": "Gdynia Cisowa",
-      "date": "06-09-2026"
+      "date": "07-09-2026"
     },
     {
-      "time": "23:31",
+      "time": "23:30",
       "destination": "Gdańsk Śródmieście",
-      "date": "06-09-2026"
+      "date": "07-09-2026"
     },
     {
-      "time": "23:54",
+      "time": "23:49",
       "destination": "Wejherowo",
-      "date": "06-09-2026"
+      "date": "07-09-2026"
     },
     {
       "time": "23:58",
       "destination": "Gdańsk Główny",
-      "date": "06-09-2026"
+      "date": "07-09-2026"
     }
   ]
 }
