@@ -3,22 +3,17 @@
     {
       "time": "04:05",
       "destination": "Gdańsk Śródmieście",
-      "date": "25-09-2026"
+      "date": "26-09-2026"
     },
     {
       "time": "04:19",
       "destination": "Wejherowo",
-      "date": "25-09-2026"
+      "date": "26-09-2026"
     },
     {
-      "time": "04:45",
-      "destination": "Gdańsk Śródmieście",
-      "date": "25-09-2026"
-    },
-    {
-      "time": "04:49",
+      "time": "04:54",
       "destination": "Wejherowo",
-      "date": "25-09-2026"
+      "date": "26-09-2026"
     }
   ]
 }
