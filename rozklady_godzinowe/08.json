@@ -1,24 +1,64 @@
 {
   "departures": [
     {
+      "time": "08:05",
+      "destination": "Gdańsk Śródmieście",
+      "date": "19-10-2026"
+    },
+    {
+      "time": "08:09",
+      "destination": "Wejherowo",
+      "date": "19-10-2026"
+    },
+    {
       "time": "08:15",
       "destination": "Gdańsk Śródmieście",
-      "date": "18-10-2026"
+      "date": "19-10-2026"
     },
     {
       "time": "08:19",
       "destination": "Wejherowo",
-      "date": "18-10-2026"
+      "date": "19-10-2026"
+    },
+    {
+      "time": "08:25",
+      "destination": "Gdańsk Śródmieście",
+      "date": "19-10-2026"
+    },
+    {
+      "time": "08:29",
+      "destination": "Gdynia Chylonia",
+      "date": "19-10-2026"
+    },
+    {
+      "time": "08:35",
+      "destination": "Gdańsk Śródmieście",
+      "date": "19-10-2026"
+    },
+    {
+      "time": "08:39",
+      "destination": "Gdynia Cisowa",
+      "date": "19-10-2026"
     },
     {
       "time": "08:45",
       "destination": "Gdańsk Śródmieście",
-      "date": "18-10-2026"
+      "date": "19-10-2026"
     },
     {
       "time": "08:49",
       "destination": "Wejherowo",
-      "date": "18-10-2026"
+      "date": "19-10-2026"
+    },
+    {
+      "time": "08:56",
+      "destination": "Gdańsk Śródmieście",
+      "date": "19-10-2026"
+    },
+    {
+      "time": "08:59",
+      "destination": "Gdynia Cisowa",
+      "date": "19-10-2026"
     }
   ]
 }
