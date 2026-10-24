@@ -1,3 +1,14 @@
 {
-  "departures": []
+  "departures": [
+    {
+      "time": "00:26",
+      "destination": "Gdańsk Główny",
+      "date": "24-10-2026"
+    },
+    {
+      "time": "00:29",
+      "destination": "Gdynia Cisowa",
+      "date": "24-10-2026"
+    }
+  ]
 }

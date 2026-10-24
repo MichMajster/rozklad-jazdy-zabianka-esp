@@ -1,3 +1,24 @@
 {
-  "departures": []
+  "departures": [
+    {
+      "time": "20:15",
+      "destination": "Gdańsk Śródmieście",
+      "date": "24-10-2026"
+    },
+    {
+      "time": "20:19",
+      "destination": "Lębork",
+      "date": "24-10-2026"
+    },
+    {
+      "time": "20:45",
+      "destination": "Gdańsk Śródmieście",
+      "date": "24-10-2026"
+    },
+    {
+      "time": "20:49",
+      "destination": "Wejherowo",
+      "date": "24-10-2026"
+    }
+  ]
 }
