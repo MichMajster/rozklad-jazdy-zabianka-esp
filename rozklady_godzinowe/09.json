@@ -1,24 +1,24 @@
 {
   "departures": [
     {
-      "time": "09:15",
+      "time": "09:17",
       "destination": "Gdańsk Śródmieście",
-      "date": "24-10-2026"
+      "date": "25-10-2026"
     },
     {
       "time": "09:19",
       "destination": "Wejherowo",
-      "date": "24-10-2026"
+      "date": "25-10-2026"
     },
     {
-      "time": "09:45",
+      "time": "09:47",
       "destination": "Gdańsk Śródmieście",
-      "date": "24-10-2026"
+      "date": "25-10-2026"
     },
     {
       "time": "09:49",
       "destination": "Wejherowo",
-      "date": "24-10-2026"
+      "date": "25-10-2026"
     }
   ]
 }
